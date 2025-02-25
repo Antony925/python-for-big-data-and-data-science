@@ -1,0 +1,1 @@
+print("Anton Morhun, IPZ2-2025")
